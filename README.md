@@ -1,7 +1,12 @@
-```markdown
 # Hi, I’m Hedwig 👋
 
-I build practical developer tools, curate learning resources, and explore how AI can make developer workflows faster and more reliable. I value clean, well-tested code and concise documentation that helps others learn quickly.
+![header](images/header.svg)
+
+<div align="left">
+  <img src="images/intro.svg" alt="waving" width="120" />
+</div>
+
+**I build practical developer tools, curate learning resources, and explore how AI can make developer workflows faster and more reliable.** I value clean, well-tested code and concise documentation that helps others learn quickly.
 
 ---
 
@@ -36,6 +41,14 @@ I focus on small, focused projects that solve real problems for developers:
 
 ---
 
+## Badges
+
+[![Followers](https://img.shields.io/github/followers/HedwigKA?label=Follow&style=flat-square)](https://github.com/HedwigKA)
+[![Repo size](https://img.shields.io/github/repo-size/HedwigKA/HedwigKA?style=flat-square)](https://github.com/HedwigKA/HedwigKA)
+[![Last commit](https://img.shields.io/github/last-commit/HedwigKA/HedwigKA?style=flat-square)](https://github.com/HedwigKA/HedwigKA/commits)
+
+---
+
 ## 📫 Contact
 - GitHub: https://github.com/HedwigKA
 - Email: (add your email)
@@ -44,4 +57,3 @@ I focus on small, focused projects that solve real problems for developers:
 ---
 
 Thanks for stopping by — feel free to explore my projects or open an issue to say hi!
-```

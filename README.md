@@ -80,32 +80,6 @@ A lightweight Python tool for transcribing audio using **OpenAI Whisper**.
 
 ---
 
-### ☕ [30-seconds-of-java](https://github.com/HedwigKA/30-seconds-of-java)
-
-Bite-sized and tested **Java 21** snippets designed to make learning
-Java concepts easier to understand in a short amount of time.
-
-**Focus:** Java 21 · Algorithms · Learning Resources
-
----
-
-### ⚙️ [DevOps-Roadmap](https://github.com/HedwigKA/DevOps-Roadmap)
-
-A curated roadmap and collection of resources for learning **DevOps**.
-
-**Focus:** DevOps · Learning Resources · Technical Curation
-
----
-
-### 📚 [lit](https://github.com/HedwigKA/lit)
-
-A curated reading list and collection of literature for self-taught
-AI practitioners.
-
-**Focus:** AI · Research · Technical Reading
-
----
-
 ### 🧪 [project_petako](https://github.com/HedwigKA/project_petako)
 
 A personal project built with **PHP**.

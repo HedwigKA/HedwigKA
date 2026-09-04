@@ -5,136 +5,82 @@
 <h1 align="center">Hi, I'm Hedwig 👋</h1>
 
 <p align="center">
-  Informatics Student · Developer · Builder
+  <strong>Informatics Student · Developer · Builder</strong><br>
+  <em>Passionate about software architecture, reliable systems, and applied AI.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/HedwigKA">GitHub</a>
-  ·
-  <a href="[YOUR_LINKEDIN]">LinkedIn</a>
-  ·
-  <a href="[YOUR_WEBSITE]">Website</a>
-  ·
-  <a href="mailto:[YOUR_EMAIL]">Email</a>
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[YOUR_WEBSITE]"><img src="https://img.shields.io/badge/Website-24292e?style=flat-square&logo=safari&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="./images/intro.svg" alt="Developer introduction" width="480" />
-</p>
+## 📌 About Me
 
-## About Me
+I design and build practical developer tools, streamline workflows with DevOps practices, and explore applied AI to solve real-world problems.
 
-I build practical developer tools, curate learning resources, and explore
-how AI can make developer workflows faster and more reliable.
-
-My interests sit at the intersection of **software development, developer
-experience, DevOps, and applied AI**. I enjoy turning ideas into small,
-focused projects that solve practical problems.
-
-I value **clean code, testing, useful documentation, and continuous learning**.
+- 🔭 **Interests:** Software Engineering, Developer Experience, DevOps, Applied AI, and System Virtualization.
+- 💡 **Core Values:** Clean code, robust testing, maintainable documentation, and intentional learning.
+- ⚡ **Currently:** Building an audio transcription tool using **Python & OpenAI Whisper** and exploring scalable backend architectures.
 
 ---
 
-## Currently
-
-* Building an audio transcription tool with **Python and OpenAI Whisper**
-* Curating roadmaps and learning resources for **Java and DevOps**
-* Experimenting with small **AI utilities** for developer productivity
-* Exploring better ways to make technical knowledge practical and accessible
-
----
-
-## Tech & Tools
+## 🛠️ Tech Stack & Tooling
 
 ### Languages
-
-![Java](https://img.shields.io/badge/Java-181717?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-181717?style=flat-square\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-181717?style=flat-square\&logo=php\&logoColor=white)
-
-### Tools & Engineering
-
-![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### Areas
-
-`DevOps` · `Developer Experience` · `Applied AI` · `Speech-to-Text` · `Technical Learning`
-
----
-
-## Featured Projects
-
-A few projects that represent what I'm building and learning.
-
-### 🎙️ [audio-transcription-tool](https://github.com/HedwigKA/audio-transcription-tool)
-
-A lightweight Python tool for transcribing audio using **OpenAI Whisper**.
-
-**Focus:** Python · Speech-to-Text · Applied AI
-
-**Status:** Active
-
----
-
-### 🧪 [project_petako](https://github.com/HedwigKA/project_petako)
-
-A personal project built with **PHP**.
-
-**Focus:** PHP · Software Development
-
----
-
-## Learning & Research
-
-I'm continuously exploring topics that connect software engineering
-with practical problem solving.
-
-Current interests include:
-
-* Software Engineering
-* DevOps and developer tooling
-* Applied AI
-* Speech-to-Text systems
-* Programming and technical education
-* [YOUR_RESEARCH_INTEREST]
-
----
-
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HedwigKA&show_icons=true&hide_border=true"
-    alt="Hedwig's GitHub statistics"
-  />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HedwigKA&layout=compact&hide_border=true"
-    alt="Hedwig's most used languages"
-  />
+### Infrastructure & Engineering
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## Connect
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/HedwigKA/audio-transcription-tool">audio-transcription-tool</a></h3>
+      <p>A lightweight, reliable desktop tool for transcribing speech to text locally using OpenAI Whisper.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Whisper-AI-blueviolet?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/HedwigKA/project_petako">project_petako</a></h3>
+      <p>A web application focused on backend structure, data handling, and clean software architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fullstack-grey?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/HedwigKA">GitHub</a>
-  ·
-  <a href="[YOUR_LINKEDIN]">LinkedIn</a>
-  ·
-  <a href="[YOUR_WEBSITE]">Website</a>
-  ·
-  <a href="mailto:[YOUR_EMAIL]">Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HedwigKA&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&icon_color=0969da&text_color=57606a" alt="Hedwig's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HedwigKA&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=57606a" alt="Top Languages" />
 </p>
+
+---
 
 <p align="center">
-  <sub>Building, learning, and experimenting one project at a time.</sub>
+  <sub>Designed & maintained by <strong>Hedwig</strong>. Built one experiment at a time.</sub>
 </p>
-
